@@ -1,0 +1,24 @@
+//data = '[{"word" : "Precious", "meaning" : "Something which is very valuable."},{"word" : "initially", "meaning" : "at first"}]';
+
+data = '['+
+    '{'+
+      '"word": "Initially",'+
+      '"meaning": "At first"'+
+    '},'+
+'{'+
+  '"word": "implemented",'+
+  '"meaning": "put (a decision, plan, agreement, etc.) into effect."'+
+'},'+
+    '{'+
+      '"word": "embedded",'+
+      '"meaning": "fix (an object) firmly and deeply in a surrounding mass."'+
+    '},'+
+    '{'+
+      '"word": "outward",'+
+      '"meaning": "of, on, or from the outside."'+
+    '},'+
+    '{'+
+      '"word": "respective",'+
+      '"meaning": "belonging or relating separately to each of two or more people or things."'+
+    '}'+
+  ']';
